@@ -44,8 +44,9 @@ Once you upload H5P content it is stored in a library and can be used in any num
 
 The same H5P content will be displayed differently in different frontends - adjusted font, buttons colours and shapes and more.
 
-## Hi there 👋
+## Documentation 👋
 
+[docs.wellms.io](https://docs.wellms.io/)
 
 
 <!--
