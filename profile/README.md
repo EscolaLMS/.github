@@ -9,6 +9,14 @@ Build a blazing-fast enterprise level headless Learning Management System in one
 
 Wellms is a headless system that enables immediate creation of dedicated training platforms, designed specifically to meet our Clients' most particular needs. We use it to set up content repositories with powerful administrative interfaces to support content development and management across multiple platforms.
 
+### Numbers 
+
+#### Backend REST API 
+
+[![cc](https://raw.githubusercontent.com/EscolaLMS/.github/main/api-tests/cc-badge.svg)](https://github.com/EscolaLMS/API/actions/workflows/phpunit-cc.yml)
+[![cc](https://raw.githubusercontent.com/EscolaLMS/.github/main/api-tests/cc-tests.svg)](https://github.com/EscolaLMS/API/actions/workflows/phpunit-cc.yml)
+[![cc](https://raw.githubusercontent.com/EscolaLMS/.github/main/api-tests/cc-assertions.svg)](https://github.com/EscolaLMS/API/actions/workflows/phpunit-cc.yml)
+
 #### The headless solution advantage
 
 In headless architecture you can use any and all of the frontend frameworks and technologies you may think of. In opposition to monolith LMS architecture, a headless LMS is built upon API as a main component. All other components communicate through this interface. Furthermore you can create multiple frontend solutions working with the same backend.
